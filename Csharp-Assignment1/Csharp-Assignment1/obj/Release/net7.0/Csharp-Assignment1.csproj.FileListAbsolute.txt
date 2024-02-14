@@ -1,0 +1,15 @@
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/bin/Release/net7.0/Csharp-Assignment1
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/bin/Release/net7.0/Csharp-Assignment1.deps.json
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/bin/Release/net7.0/Csharp-Assignment1.runtimeconfig.json
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/bin/Release/net7.0/Csharp-Assignment1.dll
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/bin/Release/net7.0/Csharp-Assignment1.pdb
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.csproj.AssemblyReference.cache
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.AssemblyInfoInputs.cache
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.AssemblyInfo.cs
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.csproj.CoreCompileInputs.cache
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.dll
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/refint/Csharp-Assignment1.dll
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.pdb
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/Csharp-Assignment1.genruntimeconfig.cache
+/Users/danielmontenegro/ASPnet course/Csharp-Assignment1/Csharp-Assignment1/obj/Release/net7.0/ref/Csharp-Assignment1.dll
